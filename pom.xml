@@ -1,0 +1,11 @@
+<dependencies>
+    <dependency>
+        <groupId>org.springframework.bootgroupId>
+        <artifactId>spring-boot-starter-webartifactId>
+    dependency>
+    <dependency>
+        <groupId>org.springframework.bootgroupId>
+        <artifactId>spring-boot-starter-testartifactId>
+        <scope>testscope>
+    dependency>
+dependencies>
